@@ -822,7 +822,7 @@
               "query": "MATCH (n:GPO) WHERE n.type = 'Enrollment Service' and n.`Web Enrollment` = 'Enabled' RETURN n"
             }
           ]
-        }
+        },
 		{
             "name": "List all owned users",
             "queryList": [
